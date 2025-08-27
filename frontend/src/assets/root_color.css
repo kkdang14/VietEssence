@@ -1,0 +1,33 @@
+:root {
+    /* Màu chính (nâu đất) */
+    --primary-color: #4A2C2A; /* Nâu đất đậm cho nút predict, download, viền */
+    --primary-hover: #3C2422; /* Nâu đậm hơn khi hover */
+    
+    /* Màu nhấn mạnh (vàng lúa) */
+    --accent-color: #D4A017; /* Vàng lúa cho nút xóa, điểm nhấn */
+    --accent-hover: #B88B14; /* Vàng đậm hơn khi hover */
+    
+    /* Màu nền */
+    --background-main: #F5F0E8; /* Màu nền chính, giữ nguyên (gần giống màu đất nhạt) */
+    --background-card: #FFFFFF; /* Màu nền container */
+    --background-hover: #F9F9F9; /* Màu nền khi hover */
+    --background-folder: #F5F5F5; /* Màu nền folder header */
+    --background-image-item: #FAFAFA; /* Màu nền image-item */
+    
+    /* Màu văn bản và biểu tượng */
+    --text-primary: #333333; /* Màu chữ chính */
+    --text-secondary: #666666; /* Màu chữ phụ */
+    --text-muted: #999999; /* Màu chữ mờ */
+    --text-confidence: #4A2C2A; /* Màu nâu đất cho confidence percentage */
+    
+    /* Màu viền */
+    --border-color: #E0E0E0; /* Viền mặc định */
+    --border-dashed: #DDDDDD; /* Viền nét đứt cho upload area */
+    
+    /* Màu biểu tượng */
+    --icon-primary: #4A2C2A; /* Biểu tượng chính (nâu đất) */
+    --icon-muted: #DDDDDD; /* Biểu tượng empty state */
+    
+    /* Màu vô hiệu hóa */
+    --disabled-color: #CCCCCC; /* Màu cho nút vô hiệu hóa */
+}
